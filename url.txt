@@ -1,1 +1,1 @@
-https://your-dashboard-url.streamlit.app
+https://bike-sharing-dashboard-fth-dicoding.streamlit.app/
