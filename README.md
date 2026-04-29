@@ -31,7 +31,7 @@ streamlit run dashboard/dashboard.py
 ```
 
 ### 3. Buka browser
-Buka `http://localhost:8501`
+Buka `[http://localhost:8501](https://bike-sharing-dashboard-fth-dicoding.streamlit.app/)`
 
 ---
 
